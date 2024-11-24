@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+## Desafío Firebase I
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+En este desafío, para demostrar los conocimientos adquiridos en firebase, para esto se debe crear un CRUD, es decir, un sistema que pueda en este caso crear un usuario, eliminar usuarios y listar los usuarios. 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Este debe ser hecho con dos componentes: uno con un formulario para el envío de datos y el otro debe listar los usuarios con un botón en cada una de las filas de usuarios que permita eliminar dicho usuario.
+
+Para visualizar y probar este proyecto, visita el siguiente enlace:
+
+⛓️ <a href="https://crud-app-six-gray.vercel.app/">CRUD app</a>
